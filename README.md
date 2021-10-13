@@ -2,4 +2,4 @@
 
 This project is an exercise in slicing UI design to flutter
 
-UI Design Credit by buildwithangga check the link https://pixel.buildwithangga.com/details/golekos-app.
+UI Design Credit by buildwithangga check the link https://pixel.buildwithangga.com/details/golekos-app
